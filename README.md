@@ -27,6 +27,12 @@ Generator nomor kartu kredit acak yang profesional, aman, dan berjalan offline u
 - **📋 Salin Satu Klik** - Salin detail kartu individu ke clipboard
 - **🎯 Generasi Batch** - Hasilkan hingga 99.999 kartu sekaligus
 
+## 🖼️ Tampilan Aplikasi
+
+<div align="center">
+  <img src="./assets/Random Credit Card Number Generator.jpg" alt="Random Credit Card Number Generator" width="600" height="500">
+</div>
+
 ## 🚀 Memulai Cepat
 
 ### Prasyarat Sistem
