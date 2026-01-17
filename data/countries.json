@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Indonesia",
+    "code": "id",
+    "bin_txt": "bin_id.txt",
+    "bin_db": "bin_id.db",
+    "chn_txt": "chn_id.txt",
+    "chn_db": "chn_id.db"
+  },
+  {
+    "name": "United states of america",
+    "code": "us",
+    "bin_txt": "bin_us.txt",
+    "bin_db": "bin_us.db",
+    "chn_txt": "chn_us.txt",
+    "chn_db": "chn_us.db"
+  },  
+  {
+    "name": "United Kingdom",
+    "code": "gb",
+    "bin_txt": "bin_gb.txt",
+    "bin_db": "bin_gb.db",
+    "chn_txt": "chn_gb.txt",
+    "chn_db": "chn_gb.db"
+  },
+  {
+    "name": "India",
+    "code": "in",
+    "bin_txt": "bin_in.txt",
+    "bin_db": "bin_in.db",
+    "chn_txt": "chn_in.txt",
+    "chn_db": "chn_in.db"
+  }
+]
