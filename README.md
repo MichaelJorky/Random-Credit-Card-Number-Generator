@@ -131,7 +131,7 @@ Dukungan Anda membantu pemeliharaan dan pengembangan proyek ini!
 
 ## 🐛 Melaporkan Masalah
 
-Menemukan bug atau memiliki permintaan fitur? Silakan [buka issue](https://github.com/username-anda/random-card-generator/issues) di GitHub.
+Menemukan bug atau memiliki permintaan fitur? Silakan [buka issue](https://github.com/MichaelJorky/Random-Credit-Card-Number-Generator/issues) di GitHub.
 
 ---
 
